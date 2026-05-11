@@ -18,7 +18,6 @@ Big Data Analytics System for Airbnb Listings Using Apache Spark and Spark SQL
 - pyspark - Spark DataFrame API and Spark SQL
 - pandas - Initial data cleaning and preprocessing
 - numpy - Numerical operations
-- matplotlib - Data visualization
 - plotly - Interactive charts
 
 ## Dataset
