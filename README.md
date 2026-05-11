@@ -1,6 +1,6 @@
 
 
-## Student Name(s)
+## Student Name
 - Ismail Mahmoud Basbous (ismail_158818)
 - Layla Sameeh Nayyouf (layla_197901)
 
