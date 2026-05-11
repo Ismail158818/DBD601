@@ -55,9 +55,7 @@ This project implements a complete big data analytics pipeline using Apache Spar
 ## Steps Required to Run the Project
 
 ### Prerequisites
-1. Install Java JDK 11 or 17 (required for Apache Spark)
-   - Download from: https://adoptium.net/
-   - Verify installation: `java -version`
+1. Install Java JDK 11 or 17
 2. Install Apache Spark
 3. Install Python 3.13
 
