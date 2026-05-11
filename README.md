@@ -67,4 +67,4 @@ This project implements a complete big data analytics pipeline using Apache Spar
 
 2. Install required Python packages:
 ```bash
-pip install pyspark pandas numpy matplotlib plotly
+pip install pyspark pandas numpy plotly
